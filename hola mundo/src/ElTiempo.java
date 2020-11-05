@@ -1,4 +1,4 @@
-//Unidad 1 - actividad 2 - ejercicio 2 - 1.2.2
+//Unidad 1 - actividad 2 - ejercicio 3 - 1.2.3
 
 public class ElTiempo {
 public static void main(String[] args) {
